@@ -24,3 +24,5 @@ Immerse yourself in the world of music with our Music Page! This static applicat
 ## :link: Link to see the project in action
 
 [Here you can visit my website](https://music-page-adrian-dev.netlify.app/)
+
+## :wave: Greetings!!
